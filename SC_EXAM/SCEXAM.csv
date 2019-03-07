@@ -1,0 +1,203 @@
+index,result_raw,result,apply_for_raw,apply_for,major,degree,gpa,TOEFL,GRE,from_raw,from
+2173329,offer,Offer,University of Maryland - College Park,else,biostatistics,MS,80.9875,106,320,四川大学,211
+2173329,offer,Offer,University of Minnesota - Twin Cities,top20,biostatistics,MS,80.9875,106,320,四川大学,211
+2173329,offer,Offer,University of Michigan - Ann Arbor,top20,biostatistics,MS,80.9875,106,320,四川大学,211
+2173329,offer,Offer,University of California - Davis,top30,biostatistics,MS,80.9875,106,320,四川大学,211
+2164306,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Statistics 统计,MS,92.625,93,316,211 & 985,211 & 985
+2163661,被拒,Rejected,University of Washington,top10,Statistics,MS,89.0625,105,325,211 & 985,211 & 985
+2160291,AD无奖,Offer,Columbia University,top20,Biostatistics,MS,87,107,324,211,211
+2160291,AD小奖,Offer,Boston University,top50,Biostatistics,MS,87,107,324,211,211
+2160291,AD无奖,Offer,Emory University,top40,Biostatistics,MS,87,107,324,211,211
+2160291,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Biostatistics,MS,87,107,324,211,211
+2160291,AD无奖,Offer,Tulane University,else,biostatistics,MS,87,107,324,211,211
+2159937,AD无奖,Offer,Georgia Institute of Technology,else,Statistics 统计,MS,88.55,108,331,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2159749,AD小奖,Offer,Washington University in St Louis,else,Biostatistics,MS,88.5875,102,324,211,211
+2153400,AD小奖,Offer,Johns Hopkins University,top5,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,University of Michigan - Ann Arbor,top20,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,Emory University,top40,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD小奖,Offer,George Washington University,top50,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,Tulane University,else,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,The University of Texas Southwestern Medical Center,else,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,Rutgers University - Newark,top40,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2153400,AD无奖,Offer,University of Minnesota - Twin Cities,top20,biostatistics,MS,89.775,106,323,Cornell University,Oversea
+2152386,AD无奖,Offer,Emory University,top40,biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2152386,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2152386,AD无奖,Offer,Columbia University,top20,biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2152386,AD无奖,Offer,University of Pittsburgh,top50,biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2152386,AD无奖,Offer,University of Massachusetts - Amherst,else,biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2152386,AD无奖,Offer,University of Minnesota - Twin Cities,top20,biostatistics,MS,86.925,104,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2150439,offer,Offer,SUNY University at Buffalo,else,Bioinformatics and Biostatistics,MS,76,98,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2150439,被拒,Rejected,The Pennsylvania State University,top20,Applied Statistics,MS,76,98,326,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2151838,AD无奖,Offer,Emory University,top40,biostatistics,MS,83.125,96,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2151838,AD无奖,Offer,Rutgers University,top40,biostatistics,MS,83.125,96,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2151838,被拒,Rejected,Columbia University,top20,biostatistics,MS,83.125,96,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2151838,AD无奖,Offer,University of Florida,top30,biostatistics,MS,83.125,96,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2151277,AD小奖,Offer,Duke University,top10,biostatistics,MS,87.875,100,322,利物浦大学,Oversea
+2151277,AD无奖,Offer,University of Minnesota - Twin Cities,top20,biostatistics,MS,87.875,100,322,利物浦大学,Oversea
+2149991,offer,Offer,University of Kentucky,else,Statistics,MS,78.375,98,325,中国海洋大学,211
+2149991,AD小奖,Offer,Georgia State University,else,Statistics,MS,78.375,98,325,中国海洋大学,211
+2149991,被拒,Rejected,Oregon State University,else,Statistics,MS,78.375,98,325,中国海洋大学,211
+2148173,AD小奖,Offer,Washington University in St Louis,else,biostatistics,MS,87.875,100,322,利物浦大学,Oversea
+2174431,offer,Offer,University of Rochester,top50,Statistics,MA,87.1625,101,322,211,211
+2174431,被拒,Rejected,Johns Hopkins University,top5,Statistics,MS,87.1625,101,322,211,211
+2174431,被拒,Rejected,University of Michigan - Ann Arbor,top20,Statistics,MS,87.1625,101,322,211,211
+2174431,被拒,Rejected,Carnegie Mellon University,top10,Statistics,MS,87.1625,101,322,211,211
+2156375,AD无奖,Offer,New York University,top50,Applied Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156375,AD无奖,Offer,Columbia University,top20,Statistics,MA,88.1125,108,323,211 & 985,211 & 985
+2156375,AD无奖,Offer,University of Arizona,else,Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156375,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156375,被拒,Rejected,University of Washington,top10,Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156375,被拒,Rejected,University of British Columbia,else,Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156375,offer,Offer,University of Waterloo,else,Statistics,MS,88.1125,108,323,211 & 985,211 & 985
+2156365,AD无奖,Offer,University of California - Berkeley,top20,Statistics,MA,87.6375,109,328,211,211
+2156333,offer,Offer,Georgetown University,else,Biostatistics,MS,84.3,89,314,双非,双非
+2156333,Wailting list,Rejected,Washington University in St Louis,else,Biostatistics,MS,84.3,89,314,双非,双非
+2156333,offer,Offer,University of Connecticut,top50,Biostatistics,MS,84.3,89,314,双非,双非
+2156333,offer,Offer,University of Florida,top30,Biostatistics,MS,84.3,89,314,双非,双非
+2156333,被拒,Rejected,Purdue University,top30,Statistics,MS,84.3,89,314,双非,双非
+2154907,AD无奖,Offer,University of Illinois at Urbana-Champaign,top40,Statistics,MS,85.2625,107.1428571,327,211 & 985,211 & 985
+2154907,AD无奖,Offer,Washington University in St Louis,else,Data Analytics and Statistics,MS,85.2625,107.1428571,327,211 & 985,211 & 985
+2154907,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MS,85.2625,107.1428571,327,211 & 985,211 & 985
+2156373,被拒,Rejected,Yale University,top40,Statistics,MS,89.0625,105,325,211 & 985,211 & 985
+2156373,被拒,Rejected,Eidgenossische Technische Hochschule Zürich,else,Statistics,MS,89.0625,105,325,211 & 985,211 & 985
+2156373,被拒,Rejected,University of British Columbia,else,Statistics,MS,89.0625,105,325,211 & 985,211 & 985
+2156373,AD无奖,Offer,University of California - San Diego,else,Statistics,MS,89.0625,105,325,211 & 985,211 & 985
+2150384,offer,Offer,Georgia State University,else,Statistics,MS,85.69,84,316,211,211
+2149422,被拒,Rejected,Purdue University,top30,Statistics,MA,90.65,103,325,211,211
+2086191,AD无奖,Offer,University of Glasgow,else,Statistics,MS,76,97,321,211,211
+2086191,AD无奖,Offer,George Washington University,top50,Statistics,MS,76,97,321,211,211
+2086191,被拒,Rejected,University of Edinburgh,else,Statistics,MS,76,97,321,211,211
+2086191,被拒,Rejected,Iowa State University,top20,Statistics,MS,76,97,321,211,211
+2082757,AD小奖,Offer,Cornell University,top30,Statistics,MS,92,107,325,211 & 985,211 & 985
+2082757,AD小奖,Offer,Johns Hopkins University,top5,Statistics,MS,92,107,325,211 & 985,211 & 985
+2082757,AD无奖,Offer,University of Illinois at Urbana-Champaign,top40,Statistics - Analytics,MS,92,107,325,211 & 985,211 & 985
+2082757,AD无奖,Offer,University of Southern California,else,Statistics,MS,92,107,325,211 & 985,211 & 985
+2082757,被拒,Rejected,Carnegie Mellon University,top10,Statistics,MS,92,107,325,211 & 985,211 & 985
+2081567,AD无奖,Offer,University of Pittsburgh,top50,Statistics,MA,86.925,98,320,211,211
+2081567,AD无奖,Offer,University of Connecticut,top50,Statistics,MS,86.925,98,320,211,211
+2081567,AD无奖,Offer,George Washington University,top50,Statistics,MS,86.925,98,320,211,211
+2081567,被拒,Rejected,University of Illinois at Urbana-Champaign,top40,Statistics,MS,86.925,98,320,211,211
+2077634,AD无奖,Offer,Washington University in St Louis,else,Statistics,MA,85.1,102,327,哈尔滨工业大学,985
+2076475,AD无奖,Offer,Rutgers University,top40,Statistics,MS,78.85,100,321,211,211
+2075775,AD无奖,Offer,Columbia University,top20,Statistics,MS,87.5,103,320,双非,双非
+2074054,AD无奖,Offer,University of California - Davis,top30,Statistics,MA,97.5,97,322,211,211
+2074054,被拒,Rejected,Duke University,top10,Statistics,MS,97.5,97,322,211,211
+2074054,被拒,Rejected,Columbia University,top20,Statistics,MA,97.5,97,322,211,211
+2074054,被拒,Rejected,Purdue University,top30,Statistics,MA,97.5,97,322,211,211
+2074054,被拒,Rejected,University of Chicago,top5,Statistics,MS,97.5,97,322,211,211
+2074054,AD小奖,Offer,University of Nebraska - Lincoln,else,Statistics,MA,97.5,97,322,211,211
+2074054,AD无奖,Offer,University of Connecticut,top50,Statistics,MS,97.5,97,322,211,211
+2074054,AD无奖,Offer,Florida State University,top40,Statistics,MS,97.5,97,322,211,211
+2074054,AD无奖,Offer,University of Washington,top10,Statistics,MS,97.5,97,322,211,211
+2073289,offer,Offer,University of California - Davis,top30,Statistics,MA,89.775,96,319,211 & 985,211 & 985
+2066331,AD无奖,Offer,SUNY University at Buffalo,else,Biostatistics,MA,83.3625,91,313,双非,双非
+2066331,AD无奖,Offer,Michigan State University,top50,Statistics,MS,83.3625,91,313,双非,双非
+2066331,被拒,Rejected,The Pennsylvania State University,top20,Statistics,MS,83.3625,91,313,双非,双非
+2071189,AD无奖,Offer,Boston University,top50,Biostatistics,MS,86.2125,106,318,211 & 985,211 & 985
+2071189,AD无奖,Offer,University of Southern California,else,Biostatistics,MS,86.2125,106,318,211 & 985,211 & 985
+2071189,被拒,Rejected,University of Washington,top10,Statistics,MS,86.2125,106,318,211 & 985,211 & 985
+2070334,AD无奖,Offer,Columbia University,top20,Statistics,MA,90.25,106,314,辽宁大学,211
+2070334,AD无奖,Offer,University of California - Irvine,else,Statistics,MS,90.25,106,314,辽宁大学,211
+2070912,AD无奖,Offer,Columbia University,top20,Statistics,MA,90.25,110,335,985+211,211 & 985
+2070677,AD无奖,Offer,Columbia University,top20,Statistics,MA,87,101,323,211 & 985,211 & 985
+2069872,被拒,Rejected,Purdue University,top30,Statistics,MA,89.775,96,319,211 & 985,211 & 985
+2069728,AD无奖,Offer,Columbia University,top20,Statistics,MA,80.275,102,323,武汉大学,985
+2069728,AD无奖,Offer,University of Virginia,else,Statistics,MS,80.275,102,323,武汉大学,985
+2069164,AD无奖,Offer,Columbia University,top20,Statistics,MA,89.5375,105,327,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+2066426,被拒,Rejected,University of Nebraska - Lincoln,else,Statistics,MA,75.525,90,310,双非,双非
+2066073,AD无奖,Offer,Columbia University,top20,Statistics,MA,89,107,330,211 & 985,211 & 985
+2065955,AD无奖,Offer,University of Illinois at Urbana-Champaign,top40,Statistics,MS,87,109,327,211,211
+2065833,AD无奖,Offer,University of Illinois at Urbana-Champaign,top40,Statistics,MS,86.71,102,329,211,211
+2063150,被拒,Rejected,University of Connecticut,top50,Statistics,MS,87.875,109,327,211,211
+2063150,被拒,Rejected,Purdue University,top30,Statistics,MS,87.875,109,327,211,211
+2062370,AD无奖,Offer,Columbia University,top20,Statistics,MA,90.4875,108,330,清华/北大/中科大,985
+2030581,AD无奖,Offer,Southern Methodist University,else,Statistics,MS,81.4625,107,330,双非,双非
+2030581,被拒,Rejected,Carnegie Mellon University,top10,Statistics,MS,81.4625,107,330,双非,双非
+1988653,AD无奖,Offer,Tulane University,else,Statistics,MSPH,76.95,99,323,211,211
+1984994,offer,Offer,Georgia State University,else,Statistics,MS,74.1,101,316,双非,双非
+1966911,offer,Offer,Boston University,top50,Statistics,MA,85.975,107,319,211 & 985,211 & 985
+1962935,AD小奖,Offer,University of Calgary,else,Statistics,MS,92.15,105,326,211,211
+1962935,AD无奖,Offer,Cornell University,top30,Statistics,MS,92.15,105,326,211,211
+1962935,AD无奖,Offer,University of Virginia,else,Statistics,MS,92.15,105,326,211,211
+1960815,AD无奖,Offer,University of Virginia,else,Statistics,MS,85,104,332,211 & 985,211 & 985
+1957927,offer,Offer,University of Virginia,else,Statistics,MS,79.5625,100,324,香港中文大学（深圳）,985
+1957839,AD无奖,Offer,University of California - Irvine,else,Statistics,MS,85,110,325,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1956399,AD无奖,Offer,Rice University,top40,Statistics,MS,78.375,101,319,University of Florida,Oversea
+1956399,被拒,Rejected,Yale University,top40,Statistics,MS,78.375,101,319,University of Florida,Oversea
+1956399,被拒,Rejected,Duke University,top10,Statistics,MS,78.375,101,319,University of Florida,Oversea
+1956323,offer,Offer,Washington University in St Louis,else,Statistics,MA,86.925,98,324,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1956323,offer,Offer,University of Virginia,else,Statistics,MA,86.925,98,324,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1956323,被拒,Rejected,Boston University,top50,Statistics,MA,86.925,98,324,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1947076,AD无奖,Offer,Lehigh University,else,Statistics,MS,85,91,317,211 & 985,211 & 985
+1939644,AD无奖,Offer,Columbia University,top20,Statistics,MA,85,110,325,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1861546,AD无奖,Offer,University of Minnesota - Twin Cities,top20,Statistics,MS,87,99,322,211 & 985,211 & 985
+1861546,AD无奖,Offer,Columbia University,top20,Statistics,MA,87,99,322,211 & 985,211 & 985
+1861546,AD无奖,Offer,Miami University,else,Statistics,MS,87,99,322,211 & 985,211 & 985
+1829873,AD无奖,Offer,George Washington University,top50,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Pittsburgh,top50,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Illinois at Urbana-Champai,top40,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,Rutgers University - Newark,top40,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,Columbia University,top20,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Chicago,top5,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Michigan - Ann Arbor,top20,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Florida,top30,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,Georgetown University,else,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,Purdue University,top30,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Connecticut,top50,Statistics,MS,89,93,325,211,211
+1829873,被拒,Rejected,University of Georgia,else,Statistics,MS,89,93,325,211,211
+1825984,被拒,Rejected,University of North Carolina at Chapel H,top20,Statistics,MS,89,94,314,211,211
+1815685,AD无奖,Offer,George Washington University,top50,Statistics,MS,83.125,88,322,211 & 985,211 & 985
+1822444,AD无奖,Offer,Johns Hopkins University,top5,Applied Mathematics and Statistics,MS,87.4,108,325,211,211
+1822444,AD无奖,Offer,Iowa State University,top20,Statistics,MS,87.4,108,325,211,211
+1820625,AD无奖,Offer,Columbia University,top20,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1820625,AD无奖,Offer,University of Connecticut,top50,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1820625,AD无奖,Offer,University of Delaware,else,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1820625,被拒,Rejected,Johns Hopkins University,top5,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1820625,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1820625,被拒,Rejected,The Pennsylvania State University,top20,Statistics,MS,84,100,321,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1819492,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MS,86.42,82,313,211,211
+1819492,被拒,Rejected,University of Connecticut,top50,Statistics,MS,86.42,82,313,211,211
+1819492,被拒,Rejected,University of Florida,top30,Statistics,MS,86.42,82,313,211,211
+1818338,AD无奖,Offer,Columbia University,top20,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of Chicago,top5,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of Michigan - Ann Arbor,top20,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of California - Davis,top30,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of California - Santa Barbara,else,Statistics,MA,90,97,322,双非,双非
+1818338,AD无奖,Offer,George Washington University,top50,Statistics,MA,90,97,322,双非,双非
+1818338,被拒,Rejected,University of Illinois at Urbana-Champai,top40,Statistics,MA,90,97,322,双非,双非
+1818338,AD无奖,Offer,Rutgers University,top40,Statistics,MA,90,97,322,双非,双非
+1817163,被拒,Rejected,University of Minnesota - Twin Cities,top20,Statistics,MS,85,99,316,211 & 985,211 & 985
+1817163,被拒,Rejected,George Washington University,top50,Statistics,MS,85,99,316,211 & 985,211 & 985
+1817163,被拒,Rejected,University of California - Davis,top30,Statistics,MS,85,99,316,211 & 985,211 & 985
+1817163,被拒,Rejected,University of Florida,top30,Statistics,MS,85,99,316,211 & 985,211 & 985
+1817163,被拒,Rejected,Michigan State University,top50,Statistics,MS,85,99,316,211 & 985,211 & 985
+1816922,AD无奖,Offer,University of California - Irvine,else,Statistics,MS,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1816629,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Statistics,MA,88.6,111,327.5,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1816517,AD无奖,Offer,Columbia University,top20,Statistics,MA,88.9,100,320,211,211
+1815901,AD无奖,Offer,Rutgers University,top40,Statistics,MS,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1814306,被拒,Rejected,University of Chicago,top5,Statistics,MS,89,94,314,211,211
+1814306,被拒,Rejected,University of Michigan - Ann Arbor,top20,Statistics,MA,89,94,314,211,211
+1814210,AD无奖,Offer,Washington University in St Louis,else,Statistics,MS,84,98,319,211,211
+1813038,AD无奖,Offer,George Washington University,top50,Statistics,MS,71.25,93,319,211 & 985,211 & 985
+1813038,AD无奖,Offer,University of Vermont,else,Statistics,MS,71.25,93,319,211 & 985,211 & 985
+1812755,AD无奖,Offer,Johns Hopkins University,top5,Statistics,MS,93.575,106,329,浙江大学,985
+1812755,AD无奖,Offer,University of California - Davis,top30,Statistics,MS,93.575,106,329,浙江大学,985
+1812755,AD无奖,Offer,University of Wisconsin,else,Statistics,MS,93.575,106,329,浙江大学,985
+1812755,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Statistics,MS,93.575,106,329,浙江大学,985
+1811575,被拒,Rejected,The Pennsylvania State University,top20,Statistics,MS,87,99,322,211 & 985,211 & 985
+1811575,被拒,Rejected,University of California - Los Angeles,top30,Statistics,MS,87,99,322,211 & 985,211 & 985
+1811134,AD无奖,Offer,University of California - Davis,top30,Statistics,MS,89,100,326,211 & 985,211 & 985
+1810260,被拒,Rejected,Johns Hopkins University,top5,Statistics,MS,90.25,110,327,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1810257,AD无奖,Offer,University of Michigan - Ann Arbor,top20,Statistics,MS,93.575,106,329,浙江大学,985
+1810257,AD无奖,Offer,University of Wisconsin,else,Statistics,MS,93.575,106,329,浙江大学,985
+1810257,AD无奖,Offer,Johns Hopkins University,top5,Statistics,MS,93.575,106,329,浙江大学,985
+1810257,AD无奖,Offer,Duke University,top10,Statistics,MS,93.575,106,329,浙江大学,985
+1810257,AD无奖,Offer,University of Illinois at Urbana-Champai,top40,Statistics,MS,93.575,106,329,浙江大学,985
+1808444,AD无奖,Offer,Columbia University,top20,Statistics,MA,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1808444,AD无奖,Offer,University of Virginia,else,Statistics,MS,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1808444,AD无奖,Offer,University of Minnesota - Twin Cities,top20,Statistics,MS,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1808444,AD无奖,Offer,University of North Carolina at Chapel H,top20,Statistics,MS,87.6,106,322,浙大/复旦/南大/南开/武大/华中科大/上海交大/天大,985
+1806270,AD无奖,Offer,Columbia University,top20,Statistics,MA,87,99,322,211 & 985,211 & 985
+1806270,AD无奖,Offer,University of Minnesota - Twin Cities,top20,Statistics,MS,87,99,322,211 & 985,211 & 985
+1806270,AD无奖,Offer,Miami University,else,Statistics,MS,87,99,322,211 & 985,211 & 985
