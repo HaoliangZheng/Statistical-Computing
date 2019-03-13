@@ -8,5 +8,5 @@ There are 19 labs in total.
 
 About exam
 ----------
-This is my project for final exam, the topic of which is about using Naive Bayesian Algorithm to predict whether a student can get an offer of statistic major from American college.
+This is my project for final exam, the topic of which is about using Naive Bayesian Algorithm to predict whether an undergraduate can get the offer of statistic major from American college.
 All the data is crawled from the website 寄托天下 by R.
